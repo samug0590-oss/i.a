@@ -1,0 +1,471 @@
+# PROJECT: APEX — HUMANOID ROBOT FIGHTING CHAMPIONSHIP
+
+## 1. ROLE AND OBJECTIVE
+
+Act as a senior web designer, UI/UX designer, brand strategist, and front-end developer.
+
+Your task is to design and build a modern, responsive, visually striking website for **APEX**, a humanoid robot fighting championship.
+
+The website should introduce the championship, showcase its robotic fighters, promote upcoming events, and turn visitors into viewers and ticket buyers.
+
+The main positioning statement is:
+
+**"El primer campeonato real de combate humanoide."**
+
+The website must communicate three things immediately:
+
+1. This is a real competition involving humanoid robots.
+2. Each robot has unique technical capabilities and a recognizable fighting identity.
+3. Visitors can discover fighters, watch fights, follow the championship, and attend events.
+
+Before making changes, inspect the existing project and preserve any useful structure, components, assets, and configuration. Do not unnecessarily rebuild or replace working functionality.
+
+---
+
+## 2. BRAND IDENTITY AND VISUAL DIRECTION
+
+Use the uploaded branding image as the primary visual reference.
+
+The design should combine the visual language of professional combat sports with advanced robotics engineering.
+
+### Visual references
+- UFC: professional fighting championship presentation, dramatic event promotion, fighter cards, and strong typography.
+- Boston Dynamics and EngineAI: realistic humanoid robotics, engineering details, and mechanical aesthetics.
+
+### Desired aesthetic
+- Dark, industrial, premium, and cinematic.
+- Professional sports championship rather than a futuristic video game.
+- Strong visual hierarchy and bold typography.
+- Realistic humanoid robots with visible mechanical details.
+- Clean layouts with enough negative space to make important elements stand out.
+
+### Robot appearance
+
+Robots should look physically engineered and believable.
+
+Preferred materials and characteristics:
+- White polymer exterior panels.
+- Exposed titanium-gray mechanical joints.
+- Carbon fiber and aluminum components.
+- Visible mechanical structures and realistic proportions.
+
+Avoid:
+- Cartoon robots.
+- Excessive neon lighting.
+- Holographic interfaces.
+- Generic sci-fi backgrounds.
+- Overused gradients and glowing effects.
+
+The overall experience should feel like a professional combat sports organization operating in the real world.
+
+---
+
+## 3. COLOR PALETTE
+
+Use the following exact color palette:
+
+| Color | Hexadecimal | Purpose |
+|---|---|---|
+| Deep Black | #0B090A | Main background |
+| Charcoal | #161A1D | Secondary backgrounds and cards |
+| Dark Red | #660708 | Deep accent and background details |
+| Crimson | #A4161A | Secondary accent |
+| Championship Red | #BA181B | Primary CTA buttons |
+| Bright Red | #E5383B | LIVE indicators, K.O. highlights, important details |
+| Gray | #B1A7A6 | Secondary text |
+| Light Gray | #D3D3D3 | Supporting text |
+| Off-White | #F5F3F4 | Main text |
+| White | #FFFFFF | Maximum contrast elements |
+
+### Color usage guidelines
+
+Maintain a predominantly dark interface.
+
+Use red strategically for:
+- Primary buttons.
+- LIVE labels.
+- Fight status indicators.
+- Important statistics.
+- Championship highlights.
+- Hover states and interactive elements.
+
+Do not use all colors equally.
+
+The website should feel sophisticated and balanced, not overly saturated.
+
+Maintain readable contrast between text and backgrounds, especially on buttons and smaller labels.
+
+---
+
+## 4. TYPOGRAPHY
+
+Use:
+
+**Headlines: Teko Bold**
+- Large, condensed, powerful typography.
+- Uppercase titles where appropriate.
+- Strong visual presence for championship headlines and fighter names.
+
+**Technical information: Rajdhani**
+- Specifications.
+- Robot statistics.
+- Labels.
+- Navigation.
+- Supporting descriptions.
+
+Use a consistent typographic hierarchy throughout the website.
+
+---
+
+## 5. WEBSITE STRUCTURE
+
+Build a polished landing page with the following sections.
+
+### SECTION 1 — HEADER / NAVIGATION
+
+Create a dark, clean navigation bar.
+
+Include:
+- APEX logo or wordmark.
+- CARTELERA
+- REPLAYS
+- ATLETAS T800
+- BOLETERÍA
+- A prominent "VER COMBATES" or "COMPRAR ENTRADAS" CTA.
+
+The navigation should be responsive.
+
+On mobile, use a clean hamburger menu.
+
+Keep the header visible while scrolling if it improves navigation.
+
+### SECTION 2 — HERO / MAIN EVENT
+
+This is the most important section of the website.
+
+Create a dramatic hero section featuring a large, realistic humanoid fighting robot.
+
+The robot should be the main visual focus.
+
+Use a cinematic composition with strong lighting, industrial surroundings, and a professional sports-event atmosphere.
+
+Include the following messaging:
+
+**Headline:**
+"EL FUTURO DEL COMBATE YA ESTÁ AQUÍ."
+
+**Supporting text:**
+"Descubre una nueva era del deporte. Robots humanoides, ingeniería de precisión y combates que llevan los límites de la tecnología al siguiente nivel."
+
+Include two CTAs:
+- VER COMBATES
+- DESCUBRIR ATLETAS
+
+Add an event information module on the hero section.
+
+The module should contain:
+- Próximo evento.
+- Event date.
+- Location.
+- Featured fighters.
+- Event status.
+- Ticket CTA.
+
+Use clearly identified placeholder information if actual event details are unavailable. Never invent real event dates, venues, or ticket prices.
+
+### SECTION 3 — ATLETAS T800 / FIGHTER PROFILES
+
+Introduce the championship's humanoid fighters.
+
+Create a visually engaging grid of fighter cards.
+
+Each card should include:
+- Robot image.
+- Fighter name.
+- Model or identification number.
+- Weight or class, if available.
+- Height, if available.
+- Strength.
+- Speed.
+- Agility.
+- Fighting style.
+- Record or championship status, if available.
+
+Use technical-looking labels and structured statistics.
+
+The cards should feel like professional fighter profiles rather than ordinary product cards.
+
+Include a CTA:
+
+"CONOCE A TODOS LOS ATLETAS"
+
+Important: Do not fabricate technical specifications or performance records. Use clearly marked sample data or placeholders until verified information is provided.
+
+### SECTION 4 — FACTS & FIGHTS
+
+This is a signature content format and an important part of the APEX brand experience.
+
+The concept combines robotics education with combat entertainment.
+
+Each episode follows three stages:
+
+**01 — THE FACT**
+
+Start with an interesting fact about a robot's capabilities.
+
+Examples:
+- Maximum lifting capacity.
+- Movement speed.
+- Reaction time.
+- Balance.
+- Precision.
+- Mobility.
+
+Where possible, compare a robot's capabilities with a familiar animal or everyday object to make technical information easier to understand.
+
+Example concept:
+
+"¿Sabías que este robot puede levantar un peso equivalente al de un animal determinado?"
+
+Only use verified specifications and clearly distinguish real measurements from illustrative comparisons.
+
+**02 — THE FIGHT**
+
+Showcase the robot's abilities through a choreographed combat sequence.
+
+The presentation should emphasize:
+- Kicks.
+- Blocks.
+- Dodges.
+- Martial arts movements.
+- Strength.
+- Balance.
+- Reaction speed.
+- Precision.
+
+The fight should visually demonstrate the capability introduced in the first part.
+
+**03 — THE VERDICT**
+
+Finish with a short conclusion.
+
+Examples:
+- A technical evaluation.
+- A performance score.
+- A comparison between two fighters.
+- An audience vote.
+- A memorable highlight.
+
+### Visual implementation
+
+Create a dedicated section with a featured video or video thumbnail.
+
+Use a strong title:
+
+**"FACTS FIRST. FIGHTS NEXT."**
+
+Supporting text:
+
+"Conoce lo que nuestros robots pueden hacer. Después, míralos demostrarlo."
+
+Include:
+- A featured episode.
+- Video thumbnail with play button.
+- Episode title.
+- Short description.
+- Robot featured.
+- Relevant technical fact.
+- CTA: "VER EPISODIO COMPLETO".
+
+Also create smaller cards for additional episodes.
+
+This section should feel like a recognizable media format that can grow with the championship.
+
+### SECTION 5 — REPLAYS / HIGHLIGHTS
+
+Create a video-focused section for previous fights and memorable moments.
+
+Include:
+- Fight thumbnails.
+- K.O. moments.
+- Best movements.
+- Fight replays.
+- Featured highlights.
+- Video titles and descriptions.
+
+Use a clear visual distinction between LIVE events and recorded content.
+
+Use red labels for important moments such as:
+- LIVE
+- K.O.
+- REPLAY
+- HIGHLIGHT
+
+The layout should encourage visitors to explore more content.
+
+### SECTION 6 — UPCOMING EVENTS / CHAMPIONSHIP
+
+Create a section dedicated to upcoming competitions.
+
+Include:
+- Event posters or images.
+- Event date.
+- Location.
+- Featured fighters.
+- Event status.
+- Ticket CTA.
+
+The design should communicate that APEX is an ongoing championship, not just a collection of robot videos.
+
+Use a professional sports-event layout.
+
+### SECTION 7 — FOOTER
+
+Include:
+- APEX logo.
+- Short brand description.
+- Navigation links.
+- Social media links as placeholders.
+- Contact information as placeholders.
+- Copyright information.
+
+Suggested tagline:
+
+"THE NEXT ERA OF COMBAT."
+
+---
+
+## 6. CONTENT STRATEGY
+
+Apply a content strategy based on the uploaded Content Strategy skill.
+
+The website should organize its content around four main pillars:
+
+**PILLAR 1 — ROBOTICS FACTS**
+Educational content about humanoid robot engineering and physical capabilities.
+
+Purpose: Build curiosity and communicate the technological side of the championship.
+
+**PILLAR 2 — FACTS & FIGHTS**
+Short-form content combining technical facts, familiar comparisons, choreographed combat, and audience engagement.
+
+Purpose: Make robotics entertaining, understandable, and shareable.
+
+**PILLAR 3 — FIGHTER PROFILES**
+Individual robot identities, technical specifications, fighting styles, strengths, and weaknesses.
+
+Purpose: Help visitors recognize fighters and develop interest in their performance.
+
+**PILLAR 4 — CHAMPIONSHIP & HIGHLIGHTS**
+Events, tournaments, rankings, eliminations, replays, and memorable moments.
+
+Purpose: Build a competitive identity and encourage visitors to follow the championship.
+
+### Content presentation principles
+
+- Use strong headlines and clear content categories.
+- Prioritize visual storytelling.
+- Make video content easy to discover.
+- Give each content card a clear purpose.
+- Use short descriptions that encourage exploration.
+- Design the content system so new episodes, fighters, and events can be added later.
+
+The content should be shareable and recognizable as part of the APEX brand.
+
+---
+
+## 7. USER EXPERIENCE AND CONVERSION
+
+The website should guide visitors through a clear journey:
+
+1. Discover APEX through the hero section.
+2. Understand the concept of humanoid robot fighting.
+3. Explore the fighters and their capabilities.
+4. Watch FACTS & FIGHTS content.
+5. Discover previous fights and highlights.
+6. Check upcoming events.
+7. Purchase tickets or follow the championship.
+
+Use clear CTAs throughout the page.
+
+Avoid unnecessary complexity.
+
+Every section should have a clear purpose.
+
+---
+
+## 8. RESPONSIVE DESIGN
+
+The website must work properly on:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+
+Prioritize the desktop experience while ensuring that mobile layouts remain clean and easy to navigate.
+
+For mobile:
+- Stack content naturally.
+- Keep buttons accessible.
+- Avoid oversized elements that create horizontal scrolling.
+- Ensure fighter cards and video thumbnails remain readable.
+- Optimize the hero image and typography for smaller screens.
+
+---
+
+## 9. TECHNICAL REQUIREMENTS
+
+Use the existing project's architecture and dependencies whenever possible.
+
+The original project direction is based on:
+- HTML5.
+- CSS3.
+- Tailwind CSS.
+- JavaScript where needed.
+
+Do not introduce unnecessary frameworks or dependencies if the existing project already provides a working structure.
+
+Requirements:
+- Reusable components.
+- Clean and maintainable code.
+- Consistent spacing and design tokens.
+- Responsive layouts.
+- Semantic HTML.
+- Accessible buttons and navigation.
+- Optimized image usage.
+- Functional navigation between sections.
+- Smooth scrolling where appropriate.
+- Clear hover and interaction states.
+
+Do not create buttons that look functional but have no meaningful action.
+
+If a destination or feature is not implemented yet, use a clearly identified placeholder rather than pretending it works.
+
+Do not integrate CoinGecko or cryptocurrency functionality. This project is a humanoid robot fighting championship.
+
+---
+
+## 10. FINAL DESIGN EXPECTATIONS
+
+The final result should look like a professional combat sports brand with a strong robotics identity.
+
+Avoid generic AI-generated landing page aesthetics.
+
+Do not make every section look identical.
+
+Use a combination of:
+- Full-width cinematic imagery.
+- Asymmetric layouts.
+- Fighter cards.
+- Technical data panels.
+- Video thumbnails.
+- Bold typography.
+- Strong section transitions.
+- Strategic red accents.
+
+The website should feel like a combination of a professional fighting championship, a robotics showcase, and a modern sports media platform.
+
+**The most important design priority is to make APEX feel like a real, recognizable championship with its own visual identity and content ecosystem.**
+
+Build the complete responsive landing page, paying particular attention to the hero section, fighter profiles, and FACTS & FIGHTS experience.
